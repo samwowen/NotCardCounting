@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0F35741621EFE66D00111808 /* NotCardCounting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotCardCounting.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F35741621EFE66D00111808 /* !CardCounting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "!CardCounting.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F35741921EFE66D00111808 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0F35741B21EFE66D00111808 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0F35741E21EFE66D00111808 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0F35742021EFE66D00111808 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F35742321EFE66D00111808 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0F35742521EFE66D00111808 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0F35742A21EFE66D00111808 /* NotCardCountingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NotCardCountingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F35742A21EFE66D00111808 /* !CardCountingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "!CardCountingTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F35742E21EFE66D00111808 /* NotCardCountingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotCardCountingTests.swift; sourceTree = "<group>"; };
 		0F35743021EFE66D00111808 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0F35743521EFE66D00111808 /* NotCardCountingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NotCardCountingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F35743521EFE66D00111808 /* !CardCountingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "!CardCountingUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F35743921EFE66D00111808 /* NotCardCountingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotCardCountingUITests.swift; sourceTree = "<group>"; };
 		0F35743B21EFE66D00111808 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,9 +87,9 @@
 		0F35741721EFE66D00111808 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0F35741621EFE66D00111808 /* NotCardCounting.app */,
-				0F35742A21EFE66D00111808 /* NotCardCountingTests.xctest */,
-				0F35743521EFE66D00111808 /* NotCardCountingUITests.xctest */,
+				0F35741621EFE66D00111808 /* !CardCounting.app */,
+				0F35742A21EFE66D00111808 /* !CardCountingTests.xctest */,
+				0F35743521EFE66D00111808 /* !CardCountingUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0F35741521EFE66D00111808 /* NotCardCounting */ = {
+		0F35741521EFE66D00111808 /* !CardCounting */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0F35743E21EFE66D00111808 /* Build configuration list for PBXNativeTarget "NotCardCounting" */;
+			buildConfigurationList = 0F35743E21EFE66D00111808 /* Build configuration list for PBXNativeTarget "!CardCounting" */;
 			buildPhases = (
 				0F35741221EFE66D00111808 /* Sources */,
 				0F35741321EFE66D00111808 /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = NotCardCounting;
+			name = "!CardCounting";
 			productName = NotCardCounting;
-			productReference = 0F35741621EFE66D00111808 /* NotCardCounting.app */;
+			productReference = 0F35741621EFE66D00111808 /* !CardCounting.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0F35742921EFE66D00111808 /* NotCardCountingTests */ = {
+		0F35742921EFE66D00111808 /* !CardCountingTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0F35744121EFE66D00111808 /* Build configuration list for PBXNativeTarget "NotCardCountingTests" */;
+			buildConfigurationList = 0F35744121EFE66D00111808 /* Build configuration list for PBXNativeTarget "!CardCountingTests" */;
 			buildPhases = (
 				0F35742621EFE66D00111808 /* Sources */,
 				0F35742721EFE66D00111808 /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				0F35742C21EFE66D00111808 /* PBXTargetDependency */,
 			);
-			name = NotCardCountingTests;
+			name = "!CardCountingTests";
 			productName = NotCardCountingTests;
-			productReference = 0F35742A21EFE66D00111808 /* NotCardCountingTests.xctest */;
+			productReference = 0F35742A21EFE66D00111808 /* !CardCountingTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		0F35743421EFE66D00111808 /* NotCardCountingUITests */ = {
+		0F35743421EFE66D00111808 /* !CardCountingUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0F35744421EFE66D00111808 /* Build configuration list for PBXNativeTarget "NotCardCountingUITests" */;
+			buildConfigurationList = 0F35744421EFE66D00111808 /* Build configuration list for PBXNativeTarget "!CardCountingUITests" */;
 			buildPhases = (
 				0F35743121EFE66D00111808 /* Sources */,
 				0F35743221EFE66D00111808 /* Frameworks */,
@@ -176,9 +176,9 @@
 			dependencies = (
 				0F35743721EFE66D00111808 /* PBXTargetDependency */,
 			);
-			name = NotCardCountingUITests;
+			name = "!CardCountingUITests";
 			productName = NotCardCountingUITests;
-			productReference = 0F35743521EFE66D00111808 /* NotCardCountingUITests.xctest */;
+			productReference = 0F35743521EFE66D00111808 /* !CardCountingUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -207,7 +207,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0F35741121EFE66D00111808 /* Build configuration list for PBXProject "NotCardCounting" */;
+			buildConfigurationList = 0F35741121EFE66D00111808 /* Build configuration list for PBXProject "!CardCounting" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -220,9 +220,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0F35741521EFE66D00111808 /* NotCardCounting */,
-				0F35742921EFE66D00111808 /* NotCardCountingTests */,
-				0F35743421EFE66D00111808 /* NotCardCountingUITests */,
+				0F35741521EFE66D00111808 /* !CardCounting */,
+				0F35742921EFE66D00111808 /* !CardCountingTests */,
+				0F35743421EFE66D00111808 /* !CardCountingUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -285,12 +285,12 @@
 /* Begin PBXTargetDependency section */
 		0F35742C21EFE66D00111808 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0F35741521EFE66D00111808 /* NotCardCounting */;
+			target = 0F35741521EFE66D00111808 /* !CardCounting */;
 			targetProxy = 0F35742B21EFE66D00111808 /* PBXContainerItemProxy */;
 		};
 		0F35743721EFE66D00111808 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0F35741521EFE66D00111808 /* NotCardCounting */;
+			target = 0F35741521EFE66D00111808 /* !CardCounting */;
 			targetProxy = 0F35743621EFE66D00111808 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -426,13 +426,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = XV22WETTKY;
 				INFOPLIST_FILE = NotCardCounting/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = EskiSoft.NotCardCounting;
+				PRODUCT_BUNDLE_IDENTIFIER = "EskiSoft.-CardCounting";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -440,13 +443,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = XV22WETTKY;
 				INFOPLIST_FILE = NotCardCounting/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = EskiSoft.NotCardCounting;
+				PRODUCT_BUNDLE_IDENTIFIER = "EskiSoft.-CardCounting";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -462,7 +468,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NotCardCounting.app/NotCardCounting";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/!CardCounting.app/!CardCounting";
 			};
 			name = Debug;
 		};
@@ -478,7 +484,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NotCardCounting.app/NotCardCounting";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/!CardCounting.app/!CardCounting";
 			};
 			name = Release;
 		};
@@ -515,7 +521,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0F35741121EFE66D00111808 /* Build configuration list for PBXProject "NotCardCounting" */ = {
+		0F35741121EFE66D00111808 /* Build configuration list for PBXProject "!CardCounting" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0F35743C21EFE66D00111808 /* Debug */,
@@ -524,7 +530,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0F35743E21EFE66D00111808 /* Build configuration list for PBXNativeTarget "NotCardCounting" */ = {
+		0F35743E21EFE66D00111808 /* Build configuration list for PBXNativeTarget "!CardCounting" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0F35743F21EFE66D00111808 /* Debug */,
@@ -533,7 +539,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0F35744121EFE66D00111808 /* Build configuration list for PBXNativeTarget "NotCardCountingTests" */ = {
+		0F35744121EFE66D00111808 /* Build configuration list for PBXNativeTarget "!CardCountingTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0F35744221EFE66D00111808 /* Debug */,
@@ -542,7 +548,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0F35744421EFE66D00111808 /* Build configuration list for PBXNativeTarget "NotCardCountingUITests" */ = {
+		0F35744421EFE66D00111808 /* Build configuration list for PBXNativeTarget "!CardCountingUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0F35744521EFE66D00111808 /* Debug */,
